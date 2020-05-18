@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+What It Does -- 
+Get Post from algolia time to time after every 10s or on screen scroll
+
 ## Available Scripts
 
 In the project directory, you can run:
